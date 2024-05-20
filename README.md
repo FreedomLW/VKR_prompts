@@ -1,7 +1,7 @@
 # VKR_prompts
 
 There is file 'all_propts.json' with following structure:
-
+```
 {
   'hint_generation' : {
     'approche_name_1' : str,
@@ -20,3 +20,4 @@ There is file 'all_propts.json' with following structure:
     'approche_name_2' : str,
   }
 }
+```
